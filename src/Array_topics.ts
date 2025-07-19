@@ -21,7 +21,6 @@
   // Because the Array is completly in string, It accepts only String data type
   // When we pass a number to Array it doesnot accepts
   // Because Main Array values should be always either String value or Number 
-
   // Ex: 
    let Citynum:string[] | number[] = [1,1,2,3,4,5,6]
          Citynum[0] = 0 // here it accepts 
