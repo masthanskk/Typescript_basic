@@ -24,6 +24,7 @@
   // Ex: 
    let Citynum:string[] | number[] = [1,1,2,3,4,5,6]
          Citynum[0] = 0 // here it accepts 
+         
    
   // ShortHand Notation is nothing but taking array it should be complete String or Number data type thats the flow of shorthand Notation
   
