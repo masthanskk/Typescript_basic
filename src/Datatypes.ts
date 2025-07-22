@@ -1,3 +1,9 @@
+
+// DataTypes = string, Number, Boolean, Any, Object, Array, Tuple
+// Sepecial Types = void, Null & Undefined, Never
+
+
+
 // Explicit & Implicity
 
 // Implicity
