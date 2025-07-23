@@ -10,7 +10,6 @@ interface Student{
 const student : Student={
         name:'varun',
         age : 25,
-       
 }
 
 console.log(student)
