@@ -40,6 +40,11 @@ userName = 'kalyan'
 userName = true
 userName = 29
 
+let Somevalue : any = 'Welcome'                
+let strLength : number = (Somevalue as string).length;
+console.log(strLength);
+
+
 // Union      string | number | boolean
 let cityName: string | number | boolean
 
